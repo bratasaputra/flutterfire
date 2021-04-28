@@ -7,6 +7,7 @@ package io.flutter.plugins.firebaseanalytics;
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
+import android.os.Parcelable;
 import androidx.annotation.NonNull;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.analytics.FirebaseAnalytics;
